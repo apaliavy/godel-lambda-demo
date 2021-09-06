@@ -1,0 +1,6 @@
+bin/*
+build/*
+assets/in/*
+assets/ount/*
+.DS_Store
+.idea

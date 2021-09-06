@@ -1,0 +1,11 @@
+version: "3.7"
+
+services:
+  demo.db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: mysecretpassword
+      POSTGRES_DB: demo
+    ports:
+      - "5438:5432"
