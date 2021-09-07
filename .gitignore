@@ -1,6 +1,6 @@
 bin/*
 build/*
 assets/in/*
-assets/ount/*
+assets/out/*
 .DS_Store
 .idea
